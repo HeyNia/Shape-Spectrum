@@ -22,5 +22,8 @@ A Python Turtle project that draws a colorful random walk using random direction
 - Uses custom RGB colors
 - Draws thick, colorful paths
 - Fast animation with Turtle
+
+- ## Output
+
   ![Output Screenshot](output2.png)
 - 
