@@ -40,4 +40,4 @@ A Python Turtle project that draws a colorful spirograph pattern using overlappi
 
 - - ## Output
 
-  ![Output Screenshot](spirograph.png)
+  ![Output Screenshot](spirograph-output.png)
