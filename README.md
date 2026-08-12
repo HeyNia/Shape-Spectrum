@@ -10,4 +10,4 @@ A simple Python Turtle project that draws colorful polygons from triangle to non
 
 ## Output
 
-![Output Screenshot](images/output.png)
+![Output Screenshot](output.png)
