@@ -1,35 +1,4 @@
-# Python Turtle Art
 
-A collection of small Python Turtle projects that create colorful shapes, patterns, and animations.
-
-## Projects
-
-### 1. Shape Spectrum
-
-Draws colorful regular polygons from triangle to```md
-# Python Turtle Art
-
-A collection of small Python Turtle projects that create colorful shapes, patterns, and animations.
-
-## Projects
-
-### 1. Shape Spectrum
-
-Draws colorful regular polygons from triangle to nonagon.
-
-**Features**
-- Draws regular polygons from 3 to 9 sides
-- Uses random colors for each shape
-- Built with Python's built-in `turtle` module
-
-**Output**  
-![Shape Spectrum Output](output.png)
-
----
-
-### 2. Random Walk Turtle
-
-Draws a colorful random```md
 # Python Turtle Art
 
 A collection of small Python Turtle projects that create colorful shapes, patterns, and animations.
