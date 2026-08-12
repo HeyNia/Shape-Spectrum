@@ -26,4 +26,18 @@ A Python Turtle project that draws a colorful random walk using random direction
 - ## Output
 
   ![Output Screenshot](output2.png)
-- 
+
+# Spirograph Turtle
+
+A Python Turtle project that draws a colorful spirograph pattern using overlapping circles and random RGB colors.
+
+## Features
+
+- Draws a spirograph using circles
+- Random RGB color for each circle
+- Adjustable angle gap between circles
+- Fast animation with Turtle
+
+- - ## Output
+
+  ![Output Screenshot](spirograph.png)
