@@ -11,3 +11,16 @@ A simple Python Turtle project that draws colorful polygons from triangle to non
 ## Output
 
 ![Output Screenshot](output.png)
+
+# Random Walk Turtle
+
+A Python Turtle project that draws a colorful random walk using random directions and RGB colors.
+
+## Features
+
+- Randomly changes direction
+- Uses custom RGB colors
+- Draws thick, colorful paths
+- Fast animation with Turtle
+  ![Output Screenshot](output2.png)
+- 
