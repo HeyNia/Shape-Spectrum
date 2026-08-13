@@ -82,4 +82,4 @@ A simple Python Turtle project that lets you control a turtle using keyboard key
 
 
 **Output**  
-![Spirograph Output](sketch.png)
+![Spirograph Output](etch-sketch.png)
