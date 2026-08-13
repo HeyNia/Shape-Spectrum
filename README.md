@@ -65,3 +65,21 @@ python spirograph.py
 
 - Python 3
 - Turtle module (built into Python)
+
+### 3. Etch-a-sketch app
+
+A simple Python Turtle project that lets you control a turtle using keyboard keys.
+
+## Controls
+
+| Key | Action |
+|-----|--------|
+| `W` | Move forward |
+| `S` | Move backward |
+| `A` | Turn left |
+| `D` | Turn right |
+| `C` | Clear and reset |
+
+
+**Output**  
+![Spirograph Output](sketch.png)
